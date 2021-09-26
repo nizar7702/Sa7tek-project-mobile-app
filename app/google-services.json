@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "163811836162",
+    "firebase_url": "https://sa7tekprojectf-default-rtdb.firebaseio.com",
+    "project_id": "sa7tekprojectf",
+    "storage_bucket": "sa7tekprojectf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163811836162:android:9bdec84c59d2e2ffd0821b",
+        "android_client_info": {
+          "package_name": "com.example.sa7tekprojectf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163811836162-516h70ke404g5hrkvbascsjb5njbvbl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_xZGf6hwZS-U7JrUgj3enjF2ojnt4wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163811836162-516h70ke404g5hrkvbascsjb5njbvbl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
